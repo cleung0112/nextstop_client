@@ -27,5 +27,6 @@
 <img src="https://lh5.googleusercontent.com/rdAoVdYKOCnmtev6t7DJrEY7mG4iYsRPqeTH0Z-OrlsVmiea3q5SMtOGNSa7HzJcyxcIcelTacG5gPNgyBoIviiNcLbohQAicvpldcfM32Klb_ewouDRd67OtYhUAU1CEZB4rBqB" width="100" />
 <img src="https://lh6.googleusercontent.com/tKlT8lGB2bTDqSilr_a2y8vaO-QBUdcUIYASnslf-RAKTxUEiEBq-_gTVBP0irIP1ZWNuSvp1fouOJrQBXUr0joVmBZzNyOec4jBpOyVogPZMOYhPH6YQwYOiLdZnfuaDnFel9rn" width="100" />
 
-* I designed and programmed the landing page and flight detail page. Learn more about the rest of the project here: https://github.com/Magnetic-Mediterranean/nextstop_client *
+### 
+I designed and programmed the landing page and flight detail page. Learn more about the rest of the project here: https://github.com/Magnetic-Mediterranean/nextstop_client 
 
